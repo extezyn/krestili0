@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7gJNbvdUdekH7S+4umBssvsQY8p0RBWP+5GwH6pNw96ZCOrjW4WNIVCAcsvwTP5BCYx+XcOTy0pTLNRbejAJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roma\\source\\repos\\prak1\\prak1\\prak1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roma\\.nuget\\packages\\wpfanimatedgif\\2.0.2\\wpfanimatedgif.2.0.2.nupkg.sha512",
+    "C:\\Users\\Roma\\.nuget\\packages\\xamlanimatedgif\\2.2.1\\xamlanimatedgif.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
